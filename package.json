@@ -1,0 +1,16 @@
+{
+  "name": "020.pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sw-basico.js",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node_modules/http-server/bin/http-server -o "
+  },
+  "author": "",
+  "license": "ISC"
+}

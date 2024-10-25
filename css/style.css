@@ -1,0 +1,42 @@
+html,
+body {
+    height: 100%;
+    background-color: #1D2125;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: white;
+}
+
+hr {
+    background-color: white;
+}
+
+p {
+    color: #D1D1D1;
+}
+a{
+    margin: 30px;
+}
+
+
+.images2 img {
+    width: 30%;
+    background-size: cover;
+}
+
+
+.page2 img{
+    width: 80%;
+    background-size: cover;
+    
+}
+
+.footer{
+    padding-bottom: 100px;
+}
